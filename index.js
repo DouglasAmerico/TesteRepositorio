@@ -23,6 +23,4 @@ for (let index = 0; index < 1; index++) {
     turma = aluno;
 }
 
-console.log("Hello Word");
-
 console.log(turma);
